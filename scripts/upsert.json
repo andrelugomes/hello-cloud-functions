@@ -1,0 +1,16 @@
+{
+  "id":"1",
+  "op":"UPSERT",
+  "data": {
+    "name": "Steakhouse",
+    "location": {
+      "lat": -21.95840072631836,
+      "lon": -47.98820114135742
+    },
+    "payment_options": [
+      "CASH", "CREDIT_CARD"
+    ],
+    "category": "STEAKHOUSE",
+    "created_at": 1585606656568
+  }
+}
